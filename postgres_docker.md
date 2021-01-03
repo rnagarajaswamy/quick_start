@@ -30,8 +30,8 @@
 ` To test the running process, run below `
 > docker ps 
  
- <br><br>
-
+ <br>
+ 
 # Install PG Admin
 ` An interface to interact with PostgreSQL, below commend will download PGAdmin interface.`
 
