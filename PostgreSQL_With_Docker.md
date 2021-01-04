@@ -39,6 +39,7 @@
 > $ docker pull dpage/pgadmin4        
 
 ## Step 2
+` Execute below script to enable/run PGAdmin. `
 > $ docker run \\ <br>
 -p 80:80 \\ <br>
 -e 'PGADMIN_DEFAULT_EMAIL=user@domain.local' \\ <br>
